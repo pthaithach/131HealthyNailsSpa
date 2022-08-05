@@ -335,7 +335,7 @@ header
   height: 40px;
   line-height: 40px;
   border: transparent;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
 }
 
 .header-area .main-nav .nav li a {
@@ -701,7 +701,7 @@ banner
 .main-banner .left-content .inner-content h4 {
   color: #edffb4 ;
   margin-top: -10px;
-  font-size: 40px;
+  font-size: 60px;
   font-weight: 300;
   margin-bottom: 20px;
     letter-spacing: 4px;
